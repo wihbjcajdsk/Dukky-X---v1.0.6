@@ -3,6 +3,6 @@
 2. Open the folder and open the application called Dukky
 3. Open Roblox and inject the executor then paste a script into the text box and execute
 <br>#How to add scripts into the script list?
-1. Open the folder called Dukky - v1.0.4 then open the file called Scripts
+1. Open the folder called Dukky then open the file called Scripts
 2. Inside Scripts create a new Text Document and paste a script then save
 3. Open the executor and click refresh then the scripts will appear
